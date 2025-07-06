@@ -1,6 +1,6 @@
 # DSA-KMS-Project
 
-This is one of the final project for the DSA program that I have been on for the past 3 months ago before now. I'm excited to have started this baby steps journey with DSA.
+This is one of the final projects for the DSA program that I have been on for the past 3 months, where I first started my journey of becoming a data analyst. It's an exciting experience for me and I'm just happy to have started this baby steps journey with DSA.
 
 ## **Project Topic: Kultra Mega Stores Inventory**
 

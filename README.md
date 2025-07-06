@@ -16,7 +16,7 @@ The primary source of the data used in the project is from DSA LMS platform on c
 
 - SQL Server (For querying and analysis) [Download here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
-### *Analysis*
+### *Data Analysis*
 
 #### **Case Scenario I**
 

@@ -16,4 +16,17 @@ The primary source of the data used in the project is from DSA LMS platform on c
 
 - SQL Server (For querying and analysis) [Download here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
-  ### Analysis
+### Analysis
+  - To get product category with the highest sales
+    
+  ``` SQL
+    SELECT 
+    Product_category, 
+    SUM(Sales) AS Total_Sales
+    FROM 
+    [dbo].[KMS Sql Case Study]
+    GROUP BY 
+    Product_category
+    ORDER BY 
+    Total_Sales DESC
+  ```
